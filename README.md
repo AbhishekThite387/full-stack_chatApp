@@ -73,3 +73,27 @@ Navigate to backend folder:
 ```bash
 cd backend
 ```
+
+# 📸 Project Screenshots
+
+## 🔐 Login Page
+
+![Login](frontend/public/my-login.png)
+
+---
+
+## 💬 Chat Interface
+
+![Chat](frontend/public/my-chat.png)
+
+---
+
+## 👤 Profile Page
+
+![Profile](frontend/public/profile-page.png)
+
+---
+
+## ⚙️ Settings Page
+
+![Settings](frontend/public/settings-page.png)
